@@ -34,7 +34,7 @@ $database = "charity_donation"; // Your MySQL database name
 
 ## 5. Usage
 
-# Admin Block
+## Admin Block
 
 As an Admin, you have full control over the system. You can:
 
@@ -44,7 +44,7 @@ As an Admin, you have full control over the system. You can:
 - Add new admins if necessary.
 - Access the system's control panel to make system-wide configurations.
   
-# Volunteer Block
+## Volunteer Block
 
 Volunteers can:
 
@@ -54,7 +54,7 @@ Volunteers can:
 - Add new tasks if required.
 - Update their profiles.
   
-# Donor Block
+## Donor Block
 
 Donors can:
 
