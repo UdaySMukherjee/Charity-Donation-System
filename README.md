@@ -1,17 +1,5 @@
 # Charity Donation System
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [System Requirements](#system-requirements)
-3. [Installation](#installation)
-4. [Configuration](#configuration)
-5. [Usage](#usage)
-    - [Admin Block](#admin-block)
-    - [Volunteer Block](#volunteer-block)
-    - [Donor Block](#donor-block)
-6. [Contributing](#contributing)
-7. [License](#license)
-
 ## 1. Introduction
 
 The Charity Donation System is a web-based application built using PHP and MySQL, designed to facilitate charitable organizations in managing donations and volunteers. The system consists of three main user roles: Admin, Volunteer, and Donor. Admins have full control over the system, volunteers can add or accept tasks, and donors can log in and make donations.
